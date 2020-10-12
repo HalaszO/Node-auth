@@ -9,6 +9,10 @@
   "keywords": [
     "Authentication"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HalaszO/Node-auth.git"
+  },
   "author": "Oliver Halasz",
   "license": "ISC",
   "dependencies": {
